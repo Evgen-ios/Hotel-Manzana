@@ -1,5 +1,5 @@
 # Hotel Manzana
-### A simple app where I practice with TableView and UIkit
+### A simple app with TableView and UIkit
 ##### Used Xcode Version 13 and Swift
 ##### For icon used Adobe Photoshop 2020
 
